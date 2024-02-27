@@ -1,5 +1,5 @@
 # Shark-Attacks
-### Dashboard-MySQL-PowerBI
+### MS Excel-MySQL-PowerBI
 ![Historical shark attacks report - Samuel Adebayo Shodipe page 1](https://github.com/bayoshodipe/Shark-Attacks/assets/8863358/858ce8ad-aecb-4ca8-b85f-da60aa7a885f)
 
 ![Historical shark attacks report - Samuel Adebayo Shodipe page 2](https://github.com/bayoshodipe/Shark-Attacks/assets/8863358/02d5457f-2e02-4bcd-88dd-17a46a3661af)
