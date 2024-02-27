@@ -4,11 +4,11 @@
 
 ![Historical shark attacks report - Samuel Adebayo Shodipe page 2](https://github.com/bayoshodipe/Shark-Attacks/assets/8863358/02d5457f-2e02-4bcd-88dd-17a46a3661af)
 
-This is a shark attacks reported over a period of 100 years, showing location, activity, victim info (name, gender, age), shark species, etc.
+The relaxation and serene environment at beaches and Oceans attracts many people every day, especially at weekends. If proper care is not taken, one can easily fall prey to the attack of sharks. this is not the only way people get attacked as this report shows that fishing at sea is the second highest activity with high shark attacks reported during the review period (1900 to 2017) after surfing which recorded about 937 attacks. Other recreational activities that follow are swimming and diving. Twenty-one (21) Multiple attacks were recorded and it was paramount in the peak year of 1959 and 2006 recording about 4 and 2 multiple attacks respectively.
 
 ## Data Used
 
-**Data** - Shark Attacks Data with 22 columns and 25,614 rows from the year 2000 to 2020 provided by #Quantun Analytics NG.
+**Data** - Shark Attacks Data with 22 columns and 25,614 rows from the year 1900 to 2017 provided by #Quantun Analytics NG.
 
 **Data Cleaning & Analysis** - MySQL and PowerBI
 
