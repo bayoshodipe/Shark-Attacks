@@ -10,6 +10,13 @@ The relaxation and serene environment at beaches and Oceans attracts many people
 
 **Data** - Shark Attacks Data with 22 columns and 25,614 rows from the year 1900 to 2017 provided by #Quantun Analytics NG.
 
-**Data Cleaning & Analysis** - MySQL and PowerBI
+**Data Cleaning & Analysis** - Excel and PowerBI
 
 **Data Visualization** - PowerBI
+
+## Questions
+1. What is the trend in the number of shark attacks annually over time since 1900?
+2. Which countries lead in reporting the highest number of shark attacks? And within those countries, what specific areas and locations appear to pose the greatest danger in terms of shark encounters?
+3. Which body parts are frequently injured in shark attacks, and how can text analysis of the "Injury" column assist in identifying these patterns?
+4. How does the frequency of shark attacks vary throughout different parts of the day? Considering that the "Time" data requires transformation before analysis, what steps would you take to prepare it for examination in determining patterns of attack occurrence?
+5. What species of sharks are responsible for the highest number of attacks? Given the messy state of the data, what strategies would you employ to clean and analyze it effectively to identify the most frequent attackers?
